@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="schema.xsd">
+	<title>Расписание занятий</title>
+    <week>
+		<week-type>Нечётная</week-type>
+        <day>
+            <name-day>Понедельник</name-day>
+            <lesson>
+                <lesson-time>08:30:00</lesson-time>
+                <lesson-name>Элективные курсы по физической культуре</lesson-name>
+                <lesson-type>Дистанционный</lesson-type>
+				<lesson-way>
+					<teacher>Зуева И.А.</teacher>
+					<classroom>сп.зал</classroom>
+				</lesson-way>
+            </lesson>
+			<lesson>
+                <lesson-time>10:10:00</lesson-time>
+                <lesson-name>Иностранный язык для профессионального общения</lesson-name>
+                <lesson-type>Дистанционный</lesson-type>
+				<lesson-way>
+					<teacher>Бахарева О.В.</teacher>
+					<classroom>525</classroom>
+				</lesson-way>
+				<lesson-way>
+					<teacher>Погосян Ж.Р.</teacher>
+					<classroom>433</classroom>
+				</lesson-way>
+				<lesson-way>
+					<teacher>Галактионова И.Е.</teacher>
+					<classroom>423</classroom>
+				</lesson-way>
+            </lesson>
+        </day>
+        <day>
+            <name-day>Вторник</name-day>
+            <lesson>
+                <lesson-time>10:10:00</lesson-time>
+                <lesson-name>Мультимедиа технологии</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Виштак Н.М.</teacher>
+					<classroom>ВЦ</classroom>
+				</lesson-way>
+            </lesson>
+            <lesson>
+                <lesson-time>12:10:00</lesson-time>
+                <lesson-name>Моделирование процессов и систем</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Очкур Г.В.</teacher>
+					<classroom>102</classroom>
+				</lesson-way>
+            </lesson>
+        </day>
+        <day>
+            <name-day>Среда</name-day>
+            <lesson>
+                <lesson-time>08:30:00</lesson-time>
+                <lesson-name>Технологии содания web-ресурсов</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Мотков А.Г.</teacher>
+					<classroom>102</classroom>
+				</lesson-way>
+            </lesson>
+            <lesson>
+                <lesson-time>10:10:00</lesson-time>
+                <lesson-name>Технологии содания web-ресурсов</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Мотков А.Г.</teacher>
+					<classroom>102</classroom>
+				</lesson-way>
+            </lesson>
+        </day>
+        <day>
+            <name-day>Четверг</name-day>
+            <lesson>
+                <lesson-time>08:30:00</lesson-time>
+                <lesson-name>Современные технологии интернет-программирования</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Ефремов Р.В.</teacher>
+					<classroom>ВЦ</classroom>
+				</lesson-way>
+            </lesson>
+            <lesson>
+                <lesson-time>10:10:00</lesson-time>
+                <lesson-name>Философия науки и техники</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Михайлова О.Н.</teacher>
+					<classroom>420</classroom>
+				</lesson-way>
+            </lesson>
+            <lesson>
+                <lesson-time>12:10:00</lesson-time>
+                <lesson-name>Архитектура информационных систем</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Михеев И.В.</teacher>
+					<classroom>ВЦ</classroom>
+				</lesson-way>
+            </lesson>
+        </day>
+        <day>
+            <name-day>Пятница</name-day>
+            <lesson>
+                <lesson-time>08:30:00</lesson-time>
+                <lesson-name>Современные технологии управления базами данных</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Штырова И.А.</teacher>
+					<classroom>102</classroom>
+				</lesson-way>
+            </lesson>
+            <lesson>
+                <lesson-time>10:10:00</lesson-time>
+                <lesson-name>Элективные курсы по физической культуре</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Зуева И.А.</teacher>
+					<classroom>сп.зал</classroom>
+				</lesson-way>
+            </lesson>
+        </day>
+        <day>
+            <name-day>Суббота</name-day>
+            <lesson>
+                <lesson-time>08:30:00</lesson-time>
+                <lesson-name>Философия науки и техники</lesson-name>
+                <lesson-type>Дистанционный</lesson-type>
+				<lesson-way>
+					<teacher>Михайлова О.Н.</teacher>
+					<classroom>420</classroom>
+				</lesson-way>
+            </lesson>
+            <lesson>
+                <lesson-time>12:10:00</lesson-time>
+                <lesson-name>Современные технологии объектно-ориентированного программирования</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Бельмесов П.И.</teacher>
+					<classroom>ВЦ</classroom>
+				</lesson-way>
+            </lesson>
+        </day>
+    </week>
+    <week>
+		<week-type>Чётная</week-type>
+        <day>
+            <name-day>Понедельник</name-day>
+            <lesson>
+                <lesson-time>08:30:00</lesson-time>
+                <lesson-name>Элективные курсы по физической культуре</lesson-name>
+                <lesson-type>Дистанционный</lesson-type>
+				<lesson-way>
+					<teacher>Зуева И.А.</teacher>
+					<classroom>сп.зал</classroom>
+				</lesson-way>
+            </lesson>
+			<lesson>
+                <lesson-time>10:10:00</lesson-time>
+                <lesson-name>Иностранный язык для профессионального общения</lesson-name>
+                <lesson-type>Дистанционный</lesson-type>
+				<lesson-way>
+					<teacher>Бахарева О.В.</teacher>
+					<classroom>525</classroom>
+				</lesson-way>
+				<lesson-way>
+					<teacher>Погосян Ж.Р.</teacher>
+					<classroom>433</classroom>
+				</lesson-way>
+				<lesson-way>
+					<teacher>Галактионова И.Е.</teacher>
+					<classroom>423</classroom>
+				</lesson-way>
+            </lesson>
+        </day>
+        <day>
+            <name-day>Вторник</name-day>
+            <lesson>
+                <lesson-time>10:10:00</lesson-time>
+                <lesson-name>Мультимедиа технологии</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Виштак Н.М.</teacher>
+					<classroom>ВЦ</classroom>
+				</lesson-way>
+            </lesson>
+            <lesson>
+                <lesson-time>12:10:00</lesson-time>
+                <lesson-name>Моделирование процессов и систем</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Очкур Г.В.</teacher>
+					<classroom>102</classroom>
+				</lesson-way>
+            </lesson>
+        </day>
+        <day>
+            <name-day>Среда</name-day>
+            <lesson>
+                <lesson-time>08:30:00</lesson-time>
+                <lesson-name>Технологии содания web-ресурсов</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Мотков А.Г.</teacher>
+					<classroom>102</classroom>
+				</lesson-way>
+            </lesson>
+            <lesson>
+                <lesson-time>10:10:00</lesson-time>
+                <lesson-name>Архитектура информационных систем</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Виштак О.В.</teacher>
+					<classroom>102</classroom>
+				</lesson-way>
+            </lesson>
+        </day>
+        <day>
+            <name-day>Четверг</name-day>
+            <lesson>
+                <lesson-time>08:30:00</lesson-time>
+                <lesson-name>Современные технологии интернет-программирования</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Ефремов Р.В.</teacher>
+					<classroom>ВЦ</classroom>
+				</lesson-way>
+            </lesson>
+            <lesson>
+                <lesson-time>10:10:00</lesson-time>
+                <lesson-name>Архитектура информационных систем</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Михеев И.В.</teacher>
+					<classroom>ВЦ</classroom>
+				</lesson-way>
+            </lesson>
+            <lesson>
+                <lesson-time>12:10:00</lesson-time>
+                <lesson-name>Архитектура информационных систем</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Михеев И.В.</teacher>
+					<classroom>ВЦ</classroom>
+				</lesson-way>
+            </lesson>
+        </day>
+        <day>
+            <name-day>Пятница</name-day>
+            <lesson>
+                <lesson-time>08:30:00</lesson-time>
+                <lesson-name>Современные технологии управления базами данных</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Штырова И.А.</teacher>
+					<classroom>102</classroom>
+				</lesson-way>
+            </lesson>
+            <lesson>
+                <lesson-time>10:30:00</lesson-time>
+                <lesson-name>Современные технологии управления базами данных</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Штырова И.А.</teacher>
+					<classroom>102</classroom>
+				</lesson-way>
+            </lesson>
+        </day>
+        <day>
+            <name-day>Суббота</name-day>
+            <lesson>
+                <lesson-time>12:10:00</lesson-time>
+                <lesson-name>Современные технологии объектно-ориентированного программирования</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Бельмесов П.И.</teacher>
+					<classroom>ВЦ</classroom>
+				</lesson-way>
+            </lesson>
+            <lesson>
+                <lesson-time>13:40:00</lesson-time>
+                <lesson-name>Современные технологии объектно-ориентированного программирования</lesson-name>
+                <lesson-type>Очный</lesson-type>
+				<lesson-way>
+					<teacher>Бельмесов П.И.</teacher>
+					<classroom>ВЦ</classroom>
+				</lesson-way>
+            </lesson>
+        </day>
+    </week>
+</schedule>
